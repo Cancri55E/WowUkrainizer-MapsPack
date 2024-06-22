@@ -14,3 +14,21 @@
 > * Танлунські степи (Townlong Steppes)
 > * Діл Вічного Цвітіння (Vale of Eternal Blossoms)
 > * Долина Чотирьох Вітрів (Valley of the Four Winds)
+
+## v1.1.0 (2024-05-15)
+
+### Додані наступні карти:
+**Підземелля:** 
+> * Палац Могу'шань (Mogu'shan Palace)
+> * Багряні Зали (Scarlet Halls)
+> * Багряний Монастир (Scarlet Monastery)
+> * Облога Храму Нюцзао (Siege of Niuzao Temple)
+> * Броварня Буремного Портеру (Stormstout Brewery)
+
+**Столиці:**
+> * Місто Штормовій (Stormwind City)
+
+### Виправлені наступні карти:
+**Пандарія:** 
+> * Красаранські пущі (Krasarang Wilds)
+> * Вершина Кунь-Лай (Kun-Lai Summit)
